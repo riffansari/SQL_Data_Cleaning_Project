@@ -46,9 +46,9 @@ The following steps were carried out during the cleaning process:
 - UPDATE
 - ALTER 
 - WHERE
+- IS NULL
 - GROUP BY
 - Aggregate Functions (COUNT, MIN, MAX)
-- CASE Expressions
 - Common Table Expressions (CTEs)
 - Window Functions (ROW_NUMBER)
 - Regular Expressions (REGEXP_REPLACE)
@@ -59,5 +59,4 @@ MySQL
 
 ### Author
 Riffa Ansari 
-
 
